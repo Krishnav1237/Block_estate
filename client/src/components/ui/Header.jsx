@@ -3,7 +3,7 @@ import { Link, useLocation } from 'react-router-dom';
 import { useAuth } from '../../../hooks';
 import SearchBar from './SearchBar';
 import { Avatar, AvatarImage, AvatarFallback } from '@radix-ui/react-avatar';
-import {useWallet} from "api/controllers/useWallet.js";
+// import {useWallet} from "api/controllers/useWallet.js";
 export const Header = () => {
   const auth = useAuth();
   const location = useLocation();
