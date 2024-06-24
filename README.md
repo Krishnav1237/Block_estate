@@ -1,4 +1,4 @@
-# Airbnb Clone
+<!-- # Airbnb Clone
 
 ## Overview
 
@@ -104,4 +104,4 @@ This project is a full-stack web application developed as a clone of Airbnb usin
 - **Shadcn:** UI library for styling based on Tailwind CSS
 - **JWT:** JSON Web Tokens for secure user authentication.
 - **Cloudinary:** Cloud-based image management for storing and serving images.
-- **Google Cloud:** For gmail based authentication
+- **Google Cloud:** For gmail based authentication -->
