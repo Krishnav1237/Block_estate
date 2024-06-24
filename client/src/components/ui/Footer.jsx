@@ -48,12 +48,12 @@ const Footer = () => {
             <strong className="font-medium">Hosting</strong>
             <p>
               <span className="cursor-pointer font-normal text-gray-700 decoration-1 underline-offset-1 hover:underline">
-                BlockEstate your home
+                Airbnb your home
               </span>
             </p>
             <p>
               <span className="cursor-pointer font-normal text-gray-700 decoration-1 underline-offset-1 hover:underline">
-                BlockEstate for Hosts
+                AirCover for Hosts
               </span>
             </p>
             <p>
