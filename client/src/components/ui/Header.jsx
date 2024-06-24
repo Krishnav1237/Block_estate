@@ -50,8 +50,8 @@ export const Header = () => {
             className="h-8 w-8 md:h-10 md:w-10"
             src="BlockEstate.png"
             alt=""
-            height="120px"
-            width="120px"
+            height="300px"
+            width="300px"
           />
 
           <span className="hidden text-2xl font-bold text-red-500 md:block">
